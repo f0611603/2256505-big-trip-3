@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Андрей Кижло](https://up.htmlacademy.ru/ecmascript-individual/3/user/2256505).
-* Наставник: `Неизвестно`.
+* Наставник: `[Евгений Лепёшкин](https://htmlacademy.ru/profile/spearance).
 
 ---
 
